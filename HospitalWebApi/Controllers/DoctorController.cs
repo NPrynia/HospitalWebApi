@@ -11,6 +11,9 @@ namespace HospitalWebApi.Controllers
     public class DoctorController : ApiController
     {
         // GET: api/Doctor
+        /// <summary>
+        /// Получить запись о докторе по ID.
+        /// </summary>
         public Doctor Get(int id)
         {
             try
@@ -26,6 +29,9 @@ namespace HospitalWebApi.Controllers
         }
 
         // GET: api/Doctor
+        /// <summary>
+        /// Получить все записи о докторах, в параметрах указывается поле сортировки и номер страниц (1 страница 20 записей) (Возвращает значения, а не ID связанных таблиц).
+        /// </summary>
         public dynamic Get(string orderBy, int numberPage)
         {
 
@@ -73,6 +79,9 @@ namespace HospitalWebApi.Controllers
         }
 
         // POST: api/Doctor
+        /// <summary>
+        /// Добавить запись о докторе.
+        /// </summary>
         public HttpResponseMessage Post([FromBody] Doctor doctor)
         {
             Appdata.refreshChanges();
@@ -93,6 +102,9 @@ namespace HospitalWebApi.Controllers
 
 
         // PUT: api/Doctor
+        /// <summary>
+        /// Изменить запись о докторе .
+        /// </summary>
         public HttpResponseMessage Put([FromBody] Doctor doctor)
         {
             try
@@ -125,6 +137,9 @@ namespace HospitalWebApi.Controllers
 
 
         // DELETE: api/Doctor
+        /// <summary>
+        /// Удаляет запись о докторе по ID.
+        /// </summary>
         public HttpResponseMessage Delete(int idDoctor)
         {
 
