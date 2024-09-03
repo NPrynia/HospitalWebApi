@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programming\\project\\C#\\HospitalWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{585F0DFE-C417-440B-866A-6EA8044E3B5B}|HospitalWebApi\\HospitalWebApi.csproj|e:\\programming\\project\\c#\\hospitalwebapi\\hospitalwebapi\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585F0DFE-C417-440B-866A-6EA8044E3B5B}|HospitalWebApi\\HospitalWebApi.csproj|solutionrelative:hospitalwebapi\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585F0DFE-C417-440B-866A-6EA8044E3B5B}|HospitalWebApi\\HospitalWebApi.csproj|e:\\programming\\project\\c#\\hospitalwebapi\\hospitalwebapi\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585F0DFE-C417-440B-866A-6EA8044E3B5B}|HospitalWebApi\\HospitalWebApi.csproj|solutionrelative:hospitalwebapi\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585F0DFE-C417-440B-866A-6EA8044E3B5B}|HospitalWebApi\\HospitalWebApi.csproj|e:\\programming\\project\\c#\\hospitalwebapi\\hospitalwebapi\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585F0DFE-C417-440B-866A-6EA8044E3B5B}|HospitalWebApi\\HospitalWebApi.csproj|solutionrelative:hospitalwebapi\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585F0DFE-C417-440B-866A-6EA8044E3B5B}|HospitalWebApi\\HospitalWebApi.csproj|e:\\programming\\project\\c#\\hospitalwebapi\\hospitalwebapi\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585F0DFE-C417-440B-866A-6EA8044E3B5B}|HospitalWebApi\\HospitalWebApi.csproj|solutionrelative:hospitalwebapi\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585F0DFE-C417-440B-866A-6EA8044E3B5B}|HospitalWebApi\\HospitalWebApi.csproj|e:\\programming\\project\\c#\\hospitalwebapi\\hospitalwebapi\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585F0DFE-C417-440B-866A-6EA8044E3B5B}|HospitalWebApi\\HospitalWebApi.csproj|solutionrelative:hospitalwebapi\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585F0DFE-C417-440B-866A-6EA8044E3B5B}|HospitalWebApi\\HospitalWebApi.csproj|e:\\programming\\project\\c#\\hospitalwebapi\\hospitalwebapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585F0DFE-C417-440B-866A-6EA8044E3B5B}|HospitalWebApi\\HospitalWebApi.csproj|solutionrelative:hospitalwebapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585F0DFE-C417-440B-866A-6EA8044E3B5B}|HospitalWebApi\\HospitalWebApi.csproj|e:\\programming\\project\\c#\\hospitalwebapi\\hospitalwebapi\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585F0DFE-C417-440B-866A-6EA8044E3B5B}|HospitalWebApi\\HospitalWebApi.csproj|solutionrelative:hospitalwebapi\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585F0DFE-C417-440B-866A-6EA8044E3B5B}|HospitalWebApi\\HospitalWebApi.csproj|e:\\programming\\project\\c#\\hospitalwebapi\\hospitalwebapi\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585F0DFE-C417-440B-866A-6EA8044E3B5B}|HospitalWebApi\\HospitalWebApi.csproj|solutionrelative:hospitalwebapi\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585F0DFE-C417-440B-866A-6EA8044E3B5B}|HospitalWebApi\\HospitalWebApi.csproj|e:\\programming\\project\\c#\\hospitalwebapi\\hospitalwebapi\\models\\model.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{585F0DFE-C417-440B-866A-6EA8044E3B5B}|HospitalWebApi\\HospitalWebApi.csproj|solutionrelative:hospitalwebapi\\models\\model.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585F0DFE-C417-440B-866A-6EA8044E3B5B}|HospitalWebApi\\HospitalWebApi.csproj|e:\\programming\\project\\c#\\hospitalwebapi\\hospitalwebapi\\models\\model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{585F0DFE-C417-440B-866A-6EA8044E3B5B}|HospitalWebApi\\HospitalWebApi.csproj|solutionrelative:hospitalwebapi\\models\\model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585F0DFE-C417-440B-866A-6EA8044E3B5B}|HospitalWebApi\\HospitalWebApi.csproj|e:\\programming\\project\\c#\\hospitalwebapi\\hospitalwebapi\\models\\model.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{585F0DFE-C417-440B-866A-6EA8044E3B5B}|HospitalWebApi\\HospitalWebApi.csproj|solutionrelative:hospitalwebapi\\models\\model.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585F0DFE-C417-440B-866A-6EA8044E3B5B}|HospitalWebApi\\HospitalWebApi.csproj|e:\\programming\\project\\c#\\hospitalwebapi\\hospitalwebapi\\app_data\\appdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585F0DFE-C417-440B-866A-6EA8044E3B5B}|HospitalWebApi\\HospitalWebApi.csproj|solutionrelative:hospitalwebapi\\app_data\\appdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model.cs",
+              "DocumentMoniker": "E:\\Programming\\project\\C#\\HospitalWebApi\\HospitalWebApi\\Models\\Model.cs",
+              "RelativeDocumentMoniker": "HospitalWebApi\\Models\\Model.cs",
+              "ToolTip": "E:\\Programming\\project\\C#\\HospitalWebApi\\HospitalWebApi\\Models\\Model.cs",
+              "RelativeToolTip": "HospitalWebApi\\Models\\Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:20:43.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "E:\\Programming\\project\\C#\\HospitalWebApi\\HospitalWebApi\\Models\\Gender.cs",
+              "RelativeDocumentMoniker": "HospitalWebApi\\Models\\Gender.cs",
+              "ToolTip": "E:\\Programming\\project\\C#\\HospitalWebApi\\HospitalWebApi\\Models\\Gender.cs",
+              "RelativeToolTip": "HospitalWebApi\\Models\\Gender.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:14:28.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Model.edmx.diagram",
+              "DocumentMoniker": "E:\\Programming\\project\\C#\\HospitalWebApi\\HospitalWebApi\\Models\\Model.edmx.diagram",
+              "RelativeDocumentMoniker": "HospitalWebApi\\Models\\Model.edmx.diagram",
+              "ToolTip": "E:\\Programming\\project\\C#\\HospitalWebApi\\HospitalWebApi\\Models\\Model.edmx.diagram",
+              "RelativeToolTip": "HospitalWebApi\\Models\\Model.edmx.diagram",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-03T10:14:26.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Model.tt",
+              "DocumentMoniker": "E:\\Programming\\project\\C#\\HospitalWebApi\\HospitalWebApi\\Models\\Model.tt",
+              "RelativeDocumentMoniker": "HospitalWebApi\\Models\\Model.tt",
+              "ToolTip": "E:\\Programming\\project\\C#\\HospitalWebApi\\HospitalWebApi\\Models\\Model.tt",
+              "RelativeToolTip": "HospitalWebApi\\Models\\Model.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-03T10:14:24.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "E:\\Programming\\project\\C#\\HospitalWebApi\\HospitalWebApi\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "HospitalWebApi\\Controllers\\DoctorController.cs",
+              "ToolTip": "E:\\Programming\\project\\C#\\HospitalWebApi\\HospitalWebApi\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "HospitalWebApi\\Controllers\\DoctorController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCUAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T09:47:11.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "E:\\Programming\\project\\C#\\HospitalWebApi\\HospitalWebApi\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "HospitalWebApi\\Models\\Doctor.cs",
+              "ToolTip": "E:\\Programming\\project\\C#\\HospitalWebApi\\HospitalWebApi\\Models\\Doctor.cs",
+              "RelativeToolTip": "HospitalWebApi\\Models\\Doctor.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAswCAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T09:46:23.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "E:\\Programming\\project\\C#\\HospitalWebApi\\HospitalWebApi\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "HospitalWebApi\\Models\\Patient.cs",
+              "ToolTip": "E:\\Programming\\project\\C#\\HospitalWebApi\\HospitalWebApi\\Models\\Patient.cs",
+              "RelativeToolTip": "HospitalWebApi\\Models\\Patient.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T09:31:46.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Programming\\project\\C#\\HospitalWebApi\\HospitalWebApi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HospitalWebApi\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Programming\\project\\C#\\HospitalWebApi\\HospitalWebApi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HospitalWebApi\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T09:21:52.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppData.cs",
+              "DocumentMoniker": "E:\\Programming\\project\\C#\\HospitalWebApi\\HospitalWebApi\\App_Data\\AppData.cs",
+              "RelativeDocumentMoniker": "HospitalWebApi\\App_Data\\AppData.cs",
+              "ToolTip": "E:\\Programming\\project\\C#\\HospitalWebApi\\HospitalWebApi\\App_Data\\AppData.cs",
+              "RelativeToolTip": "HospitalWebApi\\App_Data\\AppData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T09:04:18.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "E:\\Programming\\project\\C#\\HospitalWebApi\\HospitalWebApi\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "HospitalWebApi\\Controllers\\PatientController.cs",
+              "ToolTip": "E:\\Programming\\project\\C#\\HospitalWebApi\\HospitalWebApi\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "HospitalWebApi\\Controllers\\PatientController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowEgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T09:03:24.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "E:\\Programming\\project\\C#\\HospitalWebApi\\HospitalWebApi\\Global.asax.cs",
+              "RelativeDocumentMoniker": "HospitalWebApi\\Global.asax.cs",
+              "ToolTip": "E:\\Programming\\project\\C#\\HospitalWebApi\\HospitalWebApi\\Global.asax.cs",
+              "RelativeToolTip": "HospitalWebApi\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:25:47.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Model.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\Programming\\project\\C#\\HospitalWebApi\\HospitalWebApi\\Models\\Model.edmx",
+              "RelativeDocumentMoniker": "HospitalWebApi\\Models\\Model.edmx",
+              "ToolTip": "E:\\Programming\\project\\C#\\HospitalWebApi\\HospitalWebApi\\Models\\Model.edmx [Diagram1]",
+              "RelativeToolTip": "HospitalWebApi\\Models\\Model.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-09-03T09:00:30.382Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

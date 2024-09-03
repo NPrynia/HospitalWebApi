@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="0f85fb9d52b141df8eda6af2c2cbffe3" Name="Diagram1">
+        <EntityTypeShape EntityType="HospitalDBModel.Area" Width="1.5" PointX="0.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HospitalDBModel.Cabinet" Width="1.5" PointX="0.75" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="HospitalDBModel.Doctor" Width="1.5" PointX="3" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="HospitalDBModel.Gender" Width="1.5" PointX="3.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HospitalDBModel.Patient" Width="1.5" PointX="6" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="HospitalDBModel.Specializations" Width="1.5" PointX="0.75" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="HospitalDBModel.sysdiagrams" Width="1.5" PointX="2.75" PointY="7.875" IsExpanded="true" />
+        <AssociationConnector Association="HospitalDBModel.FK__Doctor__IDArea__3D5E1FD2" ManuallyRouted="false" />
+        <AssociationConnector Association="HospitalDBModel.FK__Patient__IDArea__38996AB5" ManuallyRouted="false" />
+        <AssociationConnector Association="HospitalDBModel.FK__Doctor__IDCabine__3B75D760" ManuallyRouted="false" />
+        <AssociationConnector Association="HospitalDBModel.FK__Doctor__IDSpecia__3C69FB99" ManuallyRouted="false" />
+        <AssociationConnector Association="HospitalDBModel.FK__Patient__IDGende__37A5467C" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
